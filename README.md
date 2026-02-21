@@ -39,7 +39,7 @@ The notebook also includes visualizations such as:
 
 ## 🚀 How to Use
 
-1. Open the notebook `Intro_to_ML_Summative.ipynb` in [Google Colab](https://colab.research.google.com/drive/1kcATkUWZPgOfz1C2TQSrLkb6drZO1UTp#scrollTo=LN1FXiaQZ_u7) or Jupyter.  
+1. Open the notebook `Intro_to_ML_Summative.ipynb` in [Google Colab](https://colab.research.google.com/drive/1tRxzyoeQVeOAqlSQYkV8J1jugA0b7s50?usp=sharing) or Jupyter.  
 2. Upload the dataset (`goldstock_v2.csv`) if prompted.  
 3. Run all cells sequentially to:
    - Preprocess data  
@@ -58,15 +58,15 @@ The notebook also includes visualizations such as:
 
 ---
 ## Links
-Report Link: https://docs.google.com/document/d/1T_UfDhzEhguEsYYowO0r9Hr52reLzho3G12tN0Y2Rfo/edit?tab=t.0
+Report Link: https://docs.google.com/document/d/1EbW8mnCUz9bx6zZQD93joUJ6vjL3ng1rEfwTzyvEMLA/edit?usp=sharing   
 
 
 ## 📜 Author
 
-- **Name: JABO Jean Jacques  
+- **Name: MAHE Digne
 - **Institution: African Leadership University  
 - **Course: Introduction to Machine Learning  
-- **Date:17 October 2025
+- **Date:February,2026
 
 ---
 
