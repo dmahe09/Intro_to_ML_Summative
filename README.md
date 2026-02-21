@@ -58,7 +58,9 @@ The notebook also includes visualizations such as:
 
 ---
 ## Links
-Report Link: https://docs.google.com/document/d/1EbW8mnCUz9bx6zZQD93joUJ6vjL3ng1rEfwTzyvEMLA/edit?usp=sharing   
+**Collab Link:** https://colab.research.google.com/drive/1tRxzyoeQVeOAqlSQYkV8J1jugA0b7s50?usp=sharing
+**Report Link:** https://docs.google.com/document/d/1EbW8mnCUz9bx6zZQD93joUJ6vjL3ng1rEfwTzyvEMLA/edit?usp=sharing   
+**Video Link:** https://youtu.be/wVQTGtbHA6o
 
 
 ## 📜 Author
